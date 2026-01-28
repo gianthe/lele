@@ -33,7 +33,7 @@ body {
 .banner {
 
     position: relative;
-    background: url(/fotos/fotodefundo.jpg) no-repeat center center/cover;
+    background: url("fotos/fotodefundo.jpg") no-repeat center/cover;
     padding: 240px 1rem 2rem;
     background-size: cover;
 
